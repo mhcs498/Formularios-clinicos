@@ -1,0 +1,19 @@
+# Configuração local
+/config/database.php
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backups locais
+*.bak
+*.backup
